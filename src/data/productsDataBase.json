@@ -73,12 +73,12 @@
  },
  {
   "id": 9,
-  "name": "Teclado Apple Magic Inalámbrico",
+  "name": "",
+  "price": "11399",
+  "discount": "",
+  "category": "visited",
   "description": "El teclado mágico combina un diseño elegante con una batería recargable incorporada y funciones clave mejoradas. Con un mecanismo de tijera estable debajo de cada tecla, así como un recorrido de teclas optimizado y un perfil bajo, el Teclado Mágico ofrece una experiencia de escritura notablemente cómoda y precisa.",
-  "price": 11399,
-  "discount": 0,
-  "image": "img-apple-magic-keyboard.jpg",
-  "category": "visited"
+  "image": "img-apple-magic-keyboard.jpg"
  },
  {
   "id": 10,
@@ -142,5 +142,21 @@
   "category": "in-sale",
   "description": "Deja que la música dance cobre vida con EXTRA BASS™ Anima el ambiente con EXTRA BASS™1. Un radiador pasivo trabaja con el parlante monoaural para potenciar los tonos bajos y mejorar los graves, a pesar del tamaño compacto. ",
   "image": "img-parlante-sony.jpg"
+ },
+ {
+  "id": 17,
+  "name": "zapatillas ",
+  "price": "15000",
+  "discount": "",
+  "category": "visited",
+  "description": "Zapatilla Nike Moda"
+ },
+ {
+  "id": 18,
+  "name": "zapatillas ",
+  "price": "15000",
+  "discount": "",
+  "category": "visited",
+  "description": "Zapatilla Nike Moda"
  }
 ]
