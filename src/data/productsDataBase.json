@@ -144,19 +144,29 @@
   "image": "img-parlante-sony.jpg"
  },
  {
-  "id": 17,
-  "name": "zapatillas ",
-  "price": "15000",
+  "id": 19,
+  "name": "",
+  "price": "",
   "discount": "",
-  "category": "visited",
-  "description": "Zapatilla Nike Moda"
+  "category": "",
+  "description": ""
  },
  {
-  "id": 18,
+  "id": 20,
   "name": "zapatillas ",
-  "price": "15000",
+  "price": "30000",
   "discount": "",
   "category": "visited",
-  "description": "Zapatilla Nike Moda"
+  "description": "Zapatilla Nike moda.",
+  "image": "img1646948349871.jpg"
+ },
+ {
+  "id": 21,
+  "name": "Buzo",
+  "price": "8000",
+  "discount": "",
+  "category": "visited",
+  "description": "Buzo Nike ",
+  "image": "img1648411754895.jpg"
  }
 ]
